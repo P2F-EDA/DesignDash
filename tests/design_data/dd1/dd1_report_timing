@@ -1,0 +1,215 @@
+****************************************
+Report : timing
+        -path_type full
+        -delay_type max
+        -max_paths 5
+        -report_by design
+        -nosplit
+        -input_pins
+        -nets
+        -transition_time
+        -capacitance
+Design : ORCA_TOP
+Version: S-2021.06-SP2
+Date   : Wed Jun  8 02:31:58 2022
+****************************************
+Ignoring start-pin-less instance I_PCI_TOP/I_PCI_CORE/clk_gate_pad_out_buf_reg/latch
+Ignoring start-pin-less instance I_CONTEXT_MEM/clk_gate_ram_read_addr_reg/latch
+Ignoring start-pin-less instance I_CONTEXT_MEM/clk_gate_ram_write_addr_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_ALU/clk_gate_Lachd_Result_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_DATA_PATH/clk_gate_PSWL_Carry_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_DATA_PATH/clk_gate_Oprnd_B_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_DATA_PATH/clk_gate_Oprnd_A_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_INSTRN_LAT/clk_gate_Crnt_Instrn_2_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_PRGRM_CNT_TOP/I_PRGRM_CNT/clk_gate_PCint_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I_STACK_FSM/clk_gate_TOS_int_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_PopDataOut_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[7]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[6]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[5]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[4]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[3]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[2]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[1]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[0]/latch
+Ignoring start-pin-less instance I_BLENDER_0/clk_gate_rem_green_reg/latch
+Ignoring start-pin-less instance I_BLENDER_1/clk_gate_rem_green_reg/latch
+Ignoring start-pin-less instance I_SDRAM_TOP/I_SDRAM_IF/clk_gate_mega_shift_0_reg[0]/latch
+Ignoring start-pin-less instance I_SDRAM_TOP/I_SDRAM_IF/clk_gate_mega_shift_1_reg[0]/latch
+
+  Startpoint: snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/tercnt_n_reg_reg (rising edge-triggered flip-flop clocked by SYS_2x_CLK)
+  Endpoint: snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/tercnt_n_reg_reg (rising edge-triggered flip-flop clocked by SYS_2x_CLK)
+  Mode: func
+  Corner: ss_125c
+  Scenario: func.ss_125c
+  Path Group: SYS_2x_CLK
+  Path Type: max
+
+  Point                                                                                   Fanout    Cap      Trans      Incr      Path  
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  clock SYS_2x_CLK (rise edge)                                                                                          0.00      0.00
+  clock network delay (ideal)                                                                                           0.20      0.20
+
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/tercnt_n_reg_reg/CLK (DFFARX1_HVT)                      0.20      0.00      0.20 r
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/tercnt_n_reg_reg/QN (DFFARX1_HVT)                       0.64      1.59      1.79 r
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/tercnt_n (net)                         1      0.80
+  snps_OCC_controller/U_clk_control_i_0/U8/A1 (AND2X1_LVT)                                                    0.64      0.00      1.79 r
+  snps_OCC_controller/U_clk_control_i_0/U8/Y (AND2X1_LVT)                                                     0.10      0.03      1.81 r
+  snps_OCC_controller/U_clk_control_i_0/n15 (net)                                            2      1.67
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/add_83/U2/A1 (NAND2X0_LVT)                              0.10      0.00      1.81 r
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/add_83/U2/Y (NAND2X0_LVT)                               0.09      0.07      1.88 f
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/add_83/n3 (net)                        1      2.07
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/add_83/U1/A1 (XNOR2X2_LVT)                              0.09      0.00      1.88 f
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/add_83/U1/Y (XNOR2X2_LVT)                               0.05      0.13      2.01 r
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/n[8] (net)                             2      1.77
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/SGI67_26013/A2 (AND2X1_LVT)                             0.05      0.00      2.01 r
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/SGI67_26013/Y (AND2X1_LVT)                              0.03      0.06      2.07 r
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/popt_net_22132 (net)                   1      1.01
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/SGI68_26014/A1 (AND2X1_LVT)                             0.03      0.00      2.07 r
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/SGI68_26014/Y (AND2X1_LVT)                              0.03      0.06      2.13 r
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/n5 (net)                               1      1.21
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/tercnt_n_reg_reg/D (DFFARX1_HVT)                        0.03      0.00      2.13 r
+  data arrival time                                                                                                               2.13
+
+  clock SYS_2x_CLK (rise edge)                                                                                          2.30      2.30
+  clock network delay (ideal)                                                                                           0.20      2.50
+  snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/tercnt_n_reg_reg/CLK (DFFARX1_HVT)                      0.20      0.00      2.50 r
+  clock uncertainty                                                                                                    -0.20      2.30
+  library setup time                                                                                                   -1.10      1.20
+  data required time                                                                                                              1.20
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  data required time                                                                                                              1.20
+  data arrival time                                                                                                              -2.13
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  slack (VIOLATED)                                                                                                               -0.93
+
+
+Ignoring start-pin-less instance I_PCI_TOP/I_PCI_CORE/clk_gate_pad_out_buf_reg/latch
+Ignoring start-pin-less instance I_CONTEXT_MEM/clk_gate_ram_read_addr_reg/latch
+Ignoring start-pin-less instance I_CONTEXT_MEM/clk_gate_ram_write_addr_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_ALU/clk_gate_Lachd_Result_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_DATA_PATH/clk_gate_PSWL_Carry_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_DATA_PATH/clk_gate_Oprnd_B_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_DATA_PATH/clk_gate_Oprnd_A_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_INSTRN_LAT/clk_gate_Crnt_Instrn_2_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_PRGRM_CNT_TOP/I_PRGRM_CNT/clk_gate_PCint_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I_STACK_FSM/clk_gate_TOS_int_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_PopDataOut_reg/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[7]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[6]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[5]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[4]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[3]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[2]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[1]/latch
+Ignoring start-pin-less instance I_RISC_CORE/I_STACK_TOP/I2_STACK_MEM/clk_gate_Stack_Mem_reg[0]/latch
+Ignoring start-pin-less instance I_BLENDER_0/clk_gate_rem_green_reg/latch
+Ignoring start-pin-less instance I_BLENDER_1/clk_gate_rem_green_reg/latch
+Ignoring start-pin-less instance I_SDRAM_TOP/I_SDRAM_IF/clk_gate_mega_shift_0_reg[0]/latch
+Ignoring start-pin-less instance I_SDRAM_TOP/I_SDRAM_IF/clk_gate_mega_shift_1_reg[0]/latch
+
+  Startpoint: snps_OCC_controller/U_clk_control_i_0/load_n_meta_1_l_reg (rising edge-triggered flip-flop clocked by SYS_2x_CLK)
+  Endpoint: snps_OCC_controller/U_clk_control_i_0/load_n_meta_2_l_reg (rising edge-triggered flip-flop clocked by SYS_2x_CLK)
+  Mode: func
+  Corner: ss_125c
+  Scenario: func.ss_125c
+  Path Group: SYS_2x_CLK
+  Path Type: max
+
+  Point                                                                                   Fanout    Cap      Trans      Incr      Path  
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  clock SYS_2x_CLK (rise edge)                                                                                          0.00      0.00
+  clock network delay (ideal)                                                                                           0.00      0.00
+
+  snps_OCC_controller/U_clk_control_i_0/load_n_meta_1_l_reg/CLK (DFFARX1_HVT)                                 0.20      0.00      0.00 r
+  snps_OCC_controller/U_clk_control_i_0/load_n_meta_1_l_reg/Q (DFFARX1_HVT)                                   0.35      2.30      2.30 f
+  snps_OCC_controller/U_clk_control_i_0/n19 (net)                                            1      1.10
+  snps_OCC_controller/U_clk_control_i_0/load_n_meta_2_l_reg/D (DFFARX1_HVT)                                   0.35      0.00      2.30 f
+  data arrival time                                                                                                               2.30
+
+  clock SYS_2x_CLK (rise edge)                                                                                          2.30      2.30
+  clock network delay (ideal)                                                                                           0.16      2.46
+  snps_OCC_controller/U_clk_control_i_0/load_n_meta_2_l_reg/CLK (DFFARX1_HVT)                                 0.20      0.00      2.46 r
+  clock uncertainty                                                                                                    -0.20      2.26
+  library setup time                                                                                                   -0.19      2.07
+  data required time                                                                                                              2.07
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  data required time                                                                                                              2.07
+  data arrival time                                                                                                              -2.30
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  slack (VIOLATED)                                                                                                               -0.22
+
+
+
+  Startpoint: I_CLOCKING/sys_2x_rst_ff_reg (rising edge-triggered flip-flop clocked by SYS_2x_CLK)
+  Endpoint: I_CLOCKING/sys_2x_rst_n_buf_reg (rising edge-triggered flip-flop clocked by SYS_2x_CLK)
+  Mode: func
+  Corner: ss_125c
+  Scenario: func.ss_125c
+  Path Group: SYS_2x_CLK
+  Path Type: max
+
+  Point                                                                                   Fanout    Cap      Trans      Incr      Path  
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  clock SYS_2x_CLK (rise edge)                                                                                          0.00      0.00
+  clock network delay (ideal)                                                                                          -0.12     -0.12
+
+  I_CLOCKING/sys_2x_rst_ff_reg/CLK (DFFARX1_HVT)                                                              0.20      0.00     -0.12 r
+  I_CLOCKING/sys_2x_rst_ff_reg/Q (DFFARX1_HVT)                                                                0.37      2.31      2.19 f
+  I_CLOCKING/sys_2x_rst_ff (net)                                                             1      1.38
+  I_CLOCKING/sys_2x_rst_n_buf_reg/D (DFFARX1_LVT)                                                             0.37      0.00      2.19 f
+  data arrival time                                                                                                               2.19
+
+  clock SYS_2x_CLK (rise edge)                                                                                          2.30      2.30
+  clock network delay (ideal)                                                                                           0.14      2.44
+  I_CLOCKING/sys_2x_rst_n_buf_reg/CLK (DFFARX1_LVT)                                                           0.20      0.00      2.44 r
+  clock uncertainty                                                                                                    -0.20      2.24
+  library setup time                                                                                                   -0.19      2.05
+  data required time                                                                                                              2.05
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  data required time                                                                                                              2.05
+  data arrival time                                                                                                              -2.19
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  slack (VIOLATED)                                                                                                               -0.14
+
+
+
+  Startpoint: I_BLENDER_0/R_115 (rising edge-triggered flip-flop clocked by SYS_CLK)
+  Endpoint: I_BLENDER_0/R_697 (rising edge-triggered flip-flop clocked by SYS_CLK)
+  Mode: func
+  Corner: ss_125c
+  Scenario: func.ss_125c
+  Path Group: SYS_CLK
+  Path Type: max
+
+  Point                                                                                   Fanout    Cap      Trans      Incr      Path  
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  clock SYS_CLK (rise edge)                                                                                             0.00      0.00
+  clock network delay (ideal)                                                                                           0.04      0.04
+
+  I_BLENDER_0/R_115/CLK (SDFFX1_LVT)                                                                          0.20      0.00      0.04 r
+  I_BLENDER_0/R_115/Q (SDFFX1_LVT)                                                                            0.11      0.28      0.32 r
+  I_BLENDER_0/n5746 (net)                                                                    2      7.72
+  I_BLENDER_0/U1916/A (NBUFFX8_LVT)                                                                           0.11      0.00      0.32 r
+  I_BLENDER_0/U1916/Y (NBUFFX8_LVT)                                                                           0.05      0.10      0.42 r
+  I_BLENDER_0/n2480 (net)                                                                    9     13.31
+  I_BLENDER_0/U4706/A1 (NAND2X0_HVT)                                                                          0.05      0.00      0.42 r
+  I_BLENDER_0/U4706/Y (NAND2X0_HVT)                                                                           0.70      0.53      0.94 f
+  I_BLENDER_0/n2256 (net)                                                                    1      0.85
+  I_BLENDER_0/R_697/D (SDFFX1_LVT)                                                                            0.05      0.00      4.30 r
+  data arrival time                                                                                                               4.30
+
+  clock SYS_CLK (rise edge)                                                                                             4.60      4.60
+  clock network delay (ideal)                                                                                           0.04      4.64
+  I_BLENDER_0/R_697/CLK (SDFFX1_LVT)                                                                          0.20      0.00      4.64 r
+  clock uncertainty                                                                                                    -0.20      4.44
+  library setup time                                                                                                   -0.14      4.30
+  data required time                                                                                                              4.30
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  data required time                                                                                                              4.30
+  data arrival time                                                                                                              -4.30
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  slack (VIOLATED)                                                                                                               -0.01
+
+
+
