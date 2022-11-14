@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "cellName": "DFFSRHQX2",
+    "cellsize": 22.44
+  },
+  {
+    "id": 2,
+    "cellName": "DFFSRHQX1",
+    "cellsize": 15.84
+  },
+  {
+    "id": 3,
+    "cellName": "DFFSRXL",
+    "cellsize": 17.16
+  },
+  {
+    "id": 4,
+    "cellName": "DFFSRX4",
+    "cellsize": 23.76
+  },
+  {
+    "id": 5,
+    "cellName": "DFFSRX2",
+    "cellsize": 17.16
+  },
+  {
+    "id": 6,
+    "cellName": "DFFSRX1",
+    "cellsize": 17.16
+  },
+  {
+    "id": 7,
+    "cellName": "DFFSHQXL",
+    "cellsize": 13.2
+  },
+  {
+    "id": 8,
+    "cellName": "DFFSHQX4",
+    "cellsize": 18.48
+  },
+  {
+    "id": 9,
+    "cellName": "DFFSHQX2",
+    "cellsize": 15.84
+  },
+  {
+    "id": 10,
+    "cellName": "DFFSHQX1",
+    "cellsize": 13.2
+  },
+  {
+    "id": 11,
+    "cellName": "DFFSXL",
+    "cellsize": 12.54
+  }
+]
