@@ -1,0 +1,450 @@
+{
+    "DIEAREA": {
+        "X1": 0.0,
+        "Y1": 0.0,
+        "X2": 2320000.0,
+        "Y2": 1130000.0
+    },
+    "Number of components": 299,
+    "Comp 0": {
+        "Cell_name": "DFFARX1_HVT",
+        "Instance_name": "snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/tercnt_n_reg_reg",
+        "X": 0.0,
+        "Y": 155000.0,
+        "Direction": "N"
+    },
+    "Comp 1": {
+        "Cell_name": "AND2X1_LVT",
+        "Instance_name": "snps_OCC_controller/U_clk_control_i_0/U8",
+        "X": 155000.0,
+        "Y": 0.0,
+        "Direction": "N"
+    },
+    "Comp 2": {
+        "Cell_name": "NAND2X0_LVT",
+        "Instance_name": "snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/add_83/U2",
+        "X": 240000.0,
+        "Y": 0.0,
+        "Direction": "N"
+    },
+    "Comp 3": {
+        "Cell_name": "XNOR2X2_LVT",
+        "Instance_name": "snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/add_83/U1",
+        "X": 410000.0,
+        "Y": 0.0,
+        "Direction": "N"
+    },
+    "Comp 4": {
+        "Cell_name": "AND2X1_LVT",
+        "Instance_name": "snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/SGI67_26013",
+        "X": 495000.0,
+        "Y": 0.0,
+        "Direction": "N"
+    },
+    "Comp 5": {
+        "Cell_name": "AND2X1_LVT",
+        "Instance_name": "snps_OCC_controller/U_clk_control_i_0/U_cycle_ctr_i/SGI68_26014",
+        "X": 505000.0,
+        "Y": 0.0,
+        "Direction": "N"
+    },
+    "Comp 6": {
+        "Cell_name": "DFFARX1_HVT",
+        "Instance_name": "snps_OCC_controller/U_clk_control_i_0/load_n_meta_1_l_reg",
+        "X": 590000.0,
+        "Y": 0.0,
+        "Direction": "N"
+    },
+    "Comp 7": {
+        "Cell_name": "DFFARX1_HVT",
+        "Instance_name": "I_CLOCKING/sys_2x_rst_ff_reg",
+        "X": 595000.0,
+        "Y": 0.0,
+        "Direction": "N"
+    },
+    "Comp 8": {
+        "Cell_name": "SDFFX1_LVT",
+        "Instance_name": "I_BLENDER_0/R_115",
+        "X": 605000.0,
+        "Y": 0.0,
+        "Direction": "N"
+    },
+    "Comp 9": {
+        "Cell_name": "NBUFFX8_LVT",
+        "Instance_name": "I_BLENDER_0/U1916",
+        "X": 690000.0,
+        "Y": 0.0,
+        "Direction": "N"
+    },
+    "Comp 10": {
+        "Cell_name": "NAND2X0_HVT",
+        "Instance_name": "I_BLENDER_0/U4706",
+        "X": 775000.0,
+        "Y": 0.0,
+        "Direction": "N"
+    },
+    "Comp 11": {
+        "Cell_name": "DVSS_2",
+        "Instance_name": "I_BLENDER_0/R_697",
+        "X": 860000.0,
+        "Y": 0.0,
+        "Direction": "N"
+    },
+    "Comp 12": {
+        "Cell_name": "DFFARX1_HVT",
+        "Instance_name": "snps_OCC_controller/U_clk_control_i_0/load_n_meta_2_l_reg",
+        "X": 945000.0,
+        "Y": 0.0,
+        "Direction": "N"
+    },
+    "Comp 13": {
+        "Cell_name": "FILL_CROSS",
+        "Instance_name": "dig_fill_cross",
+        "X": 955000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 14": {
+        "Cell_name": "FILL_5_1",
+        "Instance_name": "dig_fill_5",
+        "X": 1040000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 15": {
+        "Cell_name": "DIGITAL_PADS/FS_PAD",
+        "Instance_name": "dig_io_pad_is",
+        "X": 1045000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 16": {
+        "Cell_name": "FILL_5_2",
+        "Instance_name": "dig_fill_5",
+        "X": 1130000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 17": {
+        "Cell_name": "DIGITAL_PADS/DXA_PAD",
+        "Instance_name": "dig_io_pad_is",
+        "X": 1135000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 18": {
+        "Cell_name": "FILL_5_3",
+        "Instance_name": "dig_fill_5",
+        "X": 1220000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 19": {
+        "Cell_name": "DIGITAL_PADS/DRA_PAD",
+        "Instance_name": "dig_io_pad_is",
+        "X": 1225000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 20": {
+        "Cell_name": "DIG_FILL_20_2",
+        "Instance_name": "dig_fill_20",
+        "X": 1310000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 21": {
+        "Cell_name": "DIGITAL_PADS/PCLK_PAD",
+        "Instance_name": "dig_io_pad_is",
+        "X": 1330000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 22": {
+        "Cell_name": "FILL_10_2",
+        "Instance_name": "dig_fill_10",
+        "X": 1415000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 23": {
+        "Cell_name": "DVSSIS_1",
+        "Instance_name": "dvssis_pad",
+        "X": 1425000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 24": {
+        "Cell_name": "FILL_40_1",
+        "Instance_name": "dig_fill_40",
+        "X": 1510000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 25": {
+        "Cell_name": "FILL_40_2",
+        "Instance_name": "FILL_40_2",
+        "X": 1550000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 26": {
+        "Cell_name": "FILL_5_4",
+        "Instance_name": "FILL_5_4",
+        "X": 1590000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 27": {
+        "Cell_name": "DIGITAL_PADS/LR_FILL",
+        "Instance_name": "dig_fill_linreg_20",
+        "X": 1595000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 28": {
+        "Cell_name": "DIGITAL_PADS/LINREG12_PAD",
+        "Instance_name": "linreg12_pad",
+        "X": 1615000.0,
+        "Y": 0.0,
+        "Direction": "FS"
+    },
+    "Comp 29": {
+        "Cell_name": "FILL_5_5",
+        "Instance_name": "dig_fill_5",
+        "X": 1785000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 30": {
+        "Cell_name": "DVDD12_1",
+        "Instance_name": "dvdd12_pad",
+        "X": 1790000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 31": {
+        "Cell_name": "FILL_5_6",
+        "Instance_name": "dig_fill_5",
+        "X": 1875000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 32": {
+        "Cell_name": "DVDD12_2",
+        "Instance_name": "dvdd12_pad",
+        "X": 1880000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 33": {
+        "Cell_name": "DIG_FILL_20_3",
+        "Instance_name": "dig_fill_20",
+        "X": 1965000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 34": {
+        "Cell_name": "DVTSA",
+        "Instance_name": "dvddis_pad",
+        "X": 1985000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 35": {
+        "Cell_name": "FILL_5_7",
+        "Instance_name": "dig_fill_5",
+        "X": 2070000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 36": {
+        "Cell_name": "DVMPI",
+        "Instance_name": "dvddis_pad",
+        "X": 2075000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 37": {
+        "Cell_name": "FILL_5_8",
+        "Instance_name": "dig_fill_5",
+        "X": 2160000.0,
+        "Y": 0.0,
+        "Direction": "S"
+    },
+    "Comp 38": {
+        "Cell_name": "Corner_LR",
+        "Instance_name": "dig_corn",
+        "X": 2165000.0,
+        "Y": 0.0,
+        "Direction": "FS"
+    },
+    "Comp 39": {
+        "Cell_name": "FILL_5_9",
+        "Instance_name": "FILL_5_9",
+        "X": 2165000.0,
+        "Y": 155000.0,
+        "Direction": "E"
+    },
+    "Comp 40": {
+        "Cell_name": "DVSSIS_2",
+        "Instance_name": "DVSSIS_2",
+        "X": 2165000.0,
+        "Y": 160000.0,
+        "Direction": "E"
+    },
+    "Comp 41": {
+        "Cell_name": "FILL_85_1",
+        "Instance_name": "dig_fill_85",
+        "X": 2165000.0,
+        "Y": 245000.0,
+        "Direction": "E"
+    },
+    "Comp 42": {
+        "Cell_name": "DIGITAL_PADS/HERMES_PAD",
+        "Instance_name": "dig_io_pad_is",
+        "X": 2165000.0,
+        "Y": 330000.0,
+        "Direction": "E"
+    },
+    "Comp 43": {
+        "Cell_name": "FILL_5_10",
+        "Instance_name": "dig_fill_5",
+        "X": 2165000.0,
+        "Y": 415000.0,
+        "Direction": "E"
+    },
+    "Comp 44": {
+        "Cell_name": "DIGITAL_PADS/INT_PAD",
+        "Instance_name": "dig_io_wpu_pad_is",
+        "X": 2165000.0,
+        "Y": 420000.0,
+        "Direction": "E"
+    },
+    "Comp 45": {
+        "Cell_name": "FILL_5_11",
+        "Instance_name": "dig_fill_5",
+        "X": 2165000.0,
+        "Y": 505000.0,
+        "Direction": "E"
+    },
+    "Comp 46": {
+        "Cell_name": "DIGITAL_PADS/DCLK_PAD",
+        "Instance_name": "dig_io_wpu_pad_is",
+        "X": 2165000.0,
+        "Y": 510000.0,
+        "Direction": "E"
+    },
+    "Comp 47": {
+        "Cell_name": "FILL_5_12",
+        "Instance_name": "dig_fill_5",
+        "X": 2165000.0,
+        "Y": 595000.0,
+        "Direction": "E"
+    },
+    "Comp 48": {
+        "Cell_name": "DVSSIS_3",
+        "Instance_name": "dvssis_pad",
+        "X": 2165000.0,
+        "Y": 600000.0,
+        "Direction": "E"
+    },
+    "Comp 49": {
+        "Cell_name": "FILL_5_13",
+        "Instance_name": "dig_fill_5",
+        "X": 2165000.0,
+        "Y": 685000.0,
+        "Direction": "E"
+    },
+    "Comp 50": {
+        "Cell_name": "DIGITAL_PADS/DI_PAD",
+        "Instance_name": "dig_io_wpu_pad_is",
+        "X": 2165000.0,
+        "Y": 690000.0,
+        "Direction": "E"
+    },
+    "Comp 51": {
+        "Cell_name": "FILL_5_14",
+        "Instance_name": "dig_fill_5",
+        "X": 2165000.0,
+        "Y": 775000.0,
+        "Direction": "E"
+    },
+    "Comp 52": {
+        "Cell_name": "DIG_FILL_20_4",
+        "Instance_name": "dig_fill_20",
+        "X": 2165000.0,
+        "Y": 780000.0,
+        "Direction": "E"
+    },
+    "Comp 53": {
+        "Cell_name": "FILL_5_15",
+        "Instance_name": "dig_fill_5",
+        "X": 2165000.0,
+        "Y": 800000.0,
+        "Direction": "E"
+    },
+    "Comp 54": {
+        "Cell_name": "DIGITAL_PADS/DOUT_PAD",
+        "Instance_name": "dig_io_wpu_pad_is",
+        "X": 2165000.0,
+        "Y": 805000.0,
+        "Direction": "E"
+    },
+    "Comp 55": {
+        "Cell_name": "FILL_5_16",
+        "Instance_name": "dig_fill_5",
+        "X": 2165000.0,
+        "Y": 890000.0,
+        "Direction": "E"
+    },
+    "Comp 56": {
+        "Cell_name": "DIGITAL_PADS/CSL_PAD",
+        "Instance_name": "dig_io_wpu_pad_is",
+        "X": 2165000.0,
+        "Y": 895000.0,
+        "Direction": "E"
+    },
+    "Comp 57": {
+        "Cell_name": "FILL_5_17",
+        "Instance_name": "dig_fill_5",
+        "X": 2165000.0,
+        "Y": 980000.0,
+        "Direction": "E"
+    },
+    "Comp 58": {
+        "Cell_name": "DVDD33_3",
+        "Instance_name": "dvdd33_pad",
+        "X": 2165000.0,
+        "Y": 985000.0,
+        "Direction": "E"
+    },
+    "Comp 59": {
+        "Cell_name": "FILL_5_18",
+        "Instance_name": "dig_fill_5",
+        "X": 2165000.0,
+        "Y": 1070000.0,
+        "Direction": "E"
+    },
+    "Comp 60": {
+        "Cell_name": "DIGITAL_PADS/GPIO1_PAD",
+        "Instance_name": "io2_dig_pad",
+        "X": 2165000.0,
+        "Y": 1075000.0,
+        "Direction": "E"
+    },
+    "Comp 61": {
+        "Cell_name": "FILL_5_19",
+        "Instance_name": "dig_fill_5",
+        "X": 2165000.0,
+        "Y": 1160000.0,
+        "Direction": "E"
+    },
+    "Comp 62": {
+        "Cell_name": "DVSSIS_4",
+        "Instance_name": "dvssis_pad",
+        "X": 2165000.0,
+        "Y": 1165000.0,
+        "Direction": "E"
+    }
+}
