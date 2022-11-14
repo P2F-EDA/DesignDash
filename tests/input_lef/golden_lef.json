@@ -1,0 +1,1283 @@
+[
+    {
+        "cellName": "DFFSRHQX2",
+        "cellsize": {
+            "width": 1320.0,
+            "height": 15840.0
+        }
+    },
+    {
+        "cellName": "DFFSRHQX1",
+        "cellsize": {
+            "width": 44880.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFSRXL",
+        "cellsize": {
+            "width": 31680.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFSRX4",
+        "cellsize": {
+            "width": 34320.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFSRX2",
+        "cellsize": {
+            "width": 47520.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFSRX1",
+        "cellsize": {
+            "width": 34320.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFSHQXL",
+        "cellsize": {
+            "width": 34320.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFSHQX4",
+        "cellsize": {
+            "width": 26400.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFSHQX2",
+        "cellsize": {
+            "width": 36960.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFSHQX1",
+        "cellsize": {
+            "width": 31680.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFSXL",
+        "cellsize": {
+            "width": 26400.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFSX4",
+        "cellsize": {
+            "width": 25080.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFSX2",
+        "cellsize": {
+            "width": 36960.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFSX1",
+        "cellsize": {
+            "width": 27720.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFRHQXL",
+        "cellsize": {
+            "width": 25080.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFRHQX4",
+        "cellsize": {
+            "width": 27720.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFRHQX2",
+        "cellsize": {
+            "width": 42240.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFRHQX1",
+        "cellsize": {
+            "width": 34320.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFRXL",
+        "cellsize": {
+            "width": 27720.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFRX4",
+        "cellsize": {
+            "width": 30360.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFRX2",
+        "cellsize": {
+            "width": 39600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFRX1",
+        "cellsize": {
+            "width": 34320.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNSRXL",
+        "cellsize": {
+            "width": 30360.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNSRX4",
+        "cellsize": {
+            "width": 34320.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNSRX2",
+        "cellsize": {
+            "width": 46200.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNSRX1",
+        "cellsize": {
+            "width": 34320.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNSXL",
+        "cellsize": {
+            "width": 33000.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNSX4",
+        "cellsize": {
+            "width": 27720.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNSX2",
+        "cellsize": {
+            "width": 38280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNSX1",
+        "cellsize": {
+            "width": 27720.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNRXL",
+        "cellsize": {
+            "width": 27720.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNRX4",
+        "cellsize": {
+            "width": 31680.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNRX2",
+        "cellsize": {
+            "width": 40920.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNRX1",
+        "cellsize": {
+            "width": 34320.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNXL",
+        "cellsize": {
+            "width": 30360.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNX4",
+        "cellsize": {
+            "width": 22440.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNX2",
+        "cellsize": {
+            "width": 31680.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFNX1",
+        "cellsize": {
+            "width": 27720.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFHQXL",
+        "cellsize": {
+            "width": 22440.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFHQX4",
+        "cellsize": {
+            "width": 21120.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFHQX2",
+        "cellsize": {
+            "width": 29040.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFHQX1",
+        "cellsize": {
+            "width": 26400.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFXL",
+        "cellsize": {
+            "width": 21120.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFX4",
+        "cellsize": {
+            "width": 22440.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFX2",
+        "cellsize": {
+            "width": 33000.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "DFFX1",
+        "cellsize": {
+            "width": 27720.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKINVXL",
+        "cellsize": {
+            "width": 22440.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKINVX8",
+        "cellsize": {
+            "width": 3960.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKINVX4",
+        "cellsize": {
+            "width": 7920.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKINVX3",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKINVX2",
+        "cellsize": {
+            "width": 3960.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKINVX20",
+        "cellsize": {
+            "width": 3960.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKINVX1",
+        "cellsize": {
+            "width": 38280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKINVX16",
+        "cellsize": {
+            "width": 3960.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKINVX12",
+        "cellsize": {
+            "width": 33000.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKBUFXL",
+        "cellsize": {
+            "width": 25080.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKBUFX8",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKBUFX4",
+        "cellsize": {
+            "width": 9240.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKBUFX3",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKBUFX2",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKBUFX20",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKBUFX1",
+        "cellsize": {
+            "width": 31680.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKBUFX16",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CLKBUFX12",
+        "cellsize": {
+            "width": 25080.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BUFXL",
+        "cellsize": {
+            "width": 21120.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BUFX8",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BUFX4",
+        "cellsize": {
+            "width": 11880.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BUFX3",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BUFX2",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BUFX20",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BUFX1",
+        "cellsize": {
+            "width": 21120.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BUFX16",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BUFX12",
+        "cellsize": {
+            "width": 17160.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI33XL",
+        "cellsize": {
+            "width": 13200.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI33X4",
+        "cellsize": {
+            "width": 10560.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI33X2",
+        "cellsize": {
+            "width": 14520.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI33X1",
+        "cellsize": {
+            "width": 17160.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI32XL",
+        "cellsize": {
+            "width": 10560.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI32X4",
+        "cellsize": {
+            "width": 9240.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI32X2",
+        "cellsize": {
+            "width": 13200.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI32X1",
+        "cellsize": {
+            "width": 14520.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI31XL",
+        "cellsize": {
+            "width": 9240.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI31X4",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI31X2",
+        "cellsize": {
+            "width": 11880.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI31X1",
+        "cellsize": {
+            "width": 11880.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI2BB2XL",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI2BB2X4",
+        "cellsize": {
+            "width": 9240.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI2BB2X2",
+        "cellsize": {
+            "width": 19800.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI2BB2X1",
+        "cellsize": {
+            "width": 11880.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI2BB1XL",
+        "cellsize": {
+            "width": 9240.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI2BB1X4",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI2BB1X2",
+        "cellsize": {
+            "width": 14520.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI2BB1X1",
+        "cellsize": {
+            "width": 9240.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI22XL",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI22X4",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI22X2",
+        "cellsize": {
+            "width": 18480.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI22X1",
+        "cellsize": {
+            "width": 11880.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI222XL",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI222X4",
+        "cellsize": {
+            "width": 10560.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI222X2",
+        "cellsize": {
+            "width": 15840.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI222X1",
+        "cellsize": {
+            "width": 18480.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI221XL",
+        "cellsize": {
+            "width": 10560.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI221X4",
+        "cellsize": {
+            "width": 9240.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI221X2",
+        "cellsize": {
+            "width": 14520.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI221X1",
+        "cellsize": {
+            "width": 15840.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI21XL",
+        "cellsize": {
+            "width": 9240.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI21X4",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI21X2",
+        "cellsize": {
+            "width": 13200.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI21X1",
+        "cellsize": {
+            "width": 9240.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AND4XL",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AND4X4",
+        "cellsize": {
+            "width": 7920.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AND4X2",
+        "cellsize": {
+            "width": 14520.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AND4X1",
+        "cellsize": {
+            "width": 7920.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI211XL",
+        "cellsize": {
+            "width": 7920.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI211X4",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI211X2",
+        "cellsize": {
+            "width": 13200.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AOI211X1",
+        "cellsize": {
+            "width": 11880.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AND3XL",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AND3X4",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AND3X2",
+        "cellsize": {
+            "width": 7920.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AND3X1",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AND2XL",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AND2X4",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AND2X2",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AND2X1",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "ADDHXL",
+        "cellsize": {
+            "width": 5280.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "ADDHX4",
+        "cellsize": {
+            "width": 14520.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "ADDHX2",
+        "cellsize": {
+            "width": 36960.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "ADDHX1",
+        "cellsize": {
+            "width": 23760.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "ADDFXL",
+        "cellsize": {
+            "width": 15840.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "ADDFX4",
+        "cellsize": {
+            "width": 27720.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "ADDFX2",
+        "cellsize": {
+            "width": 30360.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "ADDFX1",
+        "cellsize": {
+            "width": 27720.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "ADDFHXL",
+        "cellsize": {
+            "width": 27720.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "ADDFHX4",
+        "cellsize": {
+            "width": 29040.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "ADDFHX2",
+        "cellsize": {
+            "width": 46200.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "ADDFHX1",
+        "cellsize": {
+            "width": 44880.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "RFRDX4",
+        "cellsize": {
+            "width": 30360.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "RFRDX2",
+        "cellsize": {
+            "width": 7920.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "RFRDX1",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "XOR3X4",
+        "cellsize": {
+            "width": 6600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "XOR3X2",
+        "cellsize": {
+            "width": 39600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "XNOR3X4",
+        "cellsize": {
+            "width": 23760.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "XNOR3X2",
+        "cellsize": {
+            "width": 39600.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AFCSHCONX4",
+        "cellsize": {
+            "width": 23760.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AFCSHCONX2",
+        "cellsize": {
+            "width": 62040.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AFCSHCINX4",
+        "cellsize": {
+            "width": 56760.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AFCSHCINX2",
+        "cellsize": {
+            "width": 64680.00000000001,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AHHCONX4",
+        "cellsize": {
+            "width": 59400.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AHHCONX2",
+        "cellsize": {
+            "width": 17160.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AHHCINX4",
+        "cellsize": {
+            "width": 14520.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AHHCINX2",
+        "cellsize": {
+            "width": 15840.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AFHCONX4",
+        "cellsize": {
+            "width": 13200.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AFHCONX2",
+        "cellsize": {
+            "width": 31680.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AFHCINX4",
+        "cellsize": {
+            "width": 29040.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "AFHCINX2",
+        "cellsize": {
+            "width": 34320.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CMPR42X2",
+        "cellsize": {
+            "width": 31680.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CMPR42X1",
+        "cellsize": {
+            "width": 52800.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CMPR32X1",
+        "cellsize": {
+            "width": 44880.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "CMPR22X1",
+        "cellsize": {
+            "width": 27720.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BMXX1",
+        "cellsize": {
+            "width": 15840.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BENCX4",
+        "cellsize": {
+            "width": 25080.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BENCX2",
+        "cellsize": {
+            "width": 80520.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "BENCX1",
+        "cellsize": {
+            "width": 54120.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "PCORNERDG",
+        "cellsize": {
+            "width": 40920.0,
+            "height": 10080.0
+        }
+    },
+    {
+        "cellName": "PDIDGZ",
+        "cellsize": {
+            "width": 470000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "PDO04CDG",
+        "cellsize": {
+            "width": 80000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "PFEED01",
+        "cellsize": {
+            "width": 80000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "PFEED1",
+        "cellsize": {
+            "width": 200.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "PFEED10",
+        "cellsize": {
+            "width": 2000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "PFEED2",
+        "cellsize": {
+            "width": 20000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "PFEED20",
+        "cellsize": {
+            "width": 4000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "PFEED35",
+        "cellsize": {
+            "width": 40000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "PFEED5",
+        "cellsize": {
+            "width": 70000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "PFEED50",
+        "cellsize": {
+            "width": 10000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "PVDD1DGZ",
+        "cellsize": {
+            "width": 100000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "PVSS1DGZ",
+        "cellsize": {
+            "width": 80000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "PDB04DGZ",
+        "cellsize": {
+            "width": 80000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "ram_128x16A",
+        "cellsize": {
+            "width": 80000.0,
+            "height": 470000.0
+        }
+    },
+    {
+        "cellName": "ram_256x16A",
+        "cellsize": {
+            "width": 1187640.0,
+            "height": 337990.0
+        }
+    },
+    {
+        "cellName": "rom_512x16A",
+        "cellsize": {
+            "width": 1196440.0,
+            "height": 378470.0
+        }
+    },
+    {
+        "cellName": "pllclk",
+        "cellsize": {
+            "width": 736330.0,
+            "height": 373690.0
+        }
+    },
+    {
+        "cellName": "ANTENNA",
+        "cellsize": {
+            "width": 600000.0,
+            "height": 560000.0
+        }
+    }
+]
