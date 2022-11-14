@@ -1,0 +1,550 @@
+[{
+    "CellName": "DFFSRHQX2",
+    "Cellsize": 22.44
+},{
+    "CellName": "DFFSRHQX1",
+    "Cellsize": 15.84
+},{
+    "CellName": "DFFSRXL",
+    "Cellsize": 17.16
+},{
+    "CellName": "DFFSRX4",
+    "Cellsize": 23.76
+},{
+    "CellName": "DFFSRX2",
+    "Cellsize": 17.16
+},{
+    "CellName": "DFFSRX1",
+    "Cellsize": 17.16
+},{
+    "CellName": "DFFSHQXL",
+    "Cellsize": 13.2
+},{
+    "CellName": "DFFSHQX4",
+    "Cellsize": 18.48
+},{
+    "CellName": "DFFSHQX2",
+    "Cellsize": 15.84
+},{
+    "CellName": "DFFSHQX1",
+    "Cellsize": 13.2
+},{
+    "CellName": "DFFSXL",
+    "Cellsize": 12.54
+},{
+    "CellName": "DFFSX4",
+    "Cellsize": 18.48
+},{
+    "CellName": "DFFSX2",
+    "Cellsize": 13.86
+},{
+    "CellName": "DFFSX1",
+    "Cellsize": 12.54
+},{
+    "CellName": "DFFRHQXL",
+    "Cellsize": 13.86
+},{
+    "CellName": "DFFRHQX4",
+    "Cellsize": 21.12
+},{
+    "CellName": "DFFRHQX2",
+    "Cellsize": 17.16
+},{
+    "CellName": "DFFRHQX1",
+    "Cellsize": 13.86
+},{
+    "CellName": "DFFRXL",
+    "Cellsize": 15.18
+},{
+    "CellName": "DFFRX4",
+    "Cellsize": 19.8
+},{
+    "CellName": "DFFRX2",
+    "Cellsize": 17.16
+},{
+    "CellName": "DFFRX1",
+    "Cellsize": 15.18
+},{
+    "CellName": "DFFNSRXL",
+    "Cellsize": 17.16
+},{
+    "CellName": "DFFNSRX4",
+    "Cellsize": 23.1
+},{
+    "CellName": "DFFNSRX2",
+    "Cellsize": 17.16
+},{
+    "CellName": "DFFNSRX1",
+    "Cellsize": 16.5
+},{
+    "CellName": "DFFNSXL",
+    "Cellsize": 13.86
+},{
+    "CellName": "DFFNSX4",
+    "Cellsize": 19.14
+},{
+    "CellName": "DFFNSX2",
+    "Cellsize": 13.86
+},{
+    "CellName": "DFFNSX1",
+    "Cellsize": 13.86
+},{
+    "CellName": "DFFNRXL",
+    "Cellsize": 15.84
+},{
+    "CellName": "DFFNRX4",
+    "Cellsize": 20.46
+},{
+    "CellName": "DFFNRX2",
+    "Cellsize": 17.16
+},{
+    "CellName": "DFFNRX1",
+    "Cellsize": 15.18
+},{
+    "CellName": "DFFNXL",
+    "Cellsize": 11.22
+},{
+    "CellName": "DFFNX4",
+    "Cellsize": 15.84
+},{
+    "CellName": "DFFNX2",
+    "Cellsize": 13.86
+},{
+    "CellName": "DFFNX1",
+    "Cellsize": 11.22
+},{
+    "CellName": "DFFHQXL",
+    "Cellsize": 10.56
+},{
+    "CellName": "DFFHQX4",
+    "Cellsize": 14.52
+},{
+    "CellName": "DFFHQX2",
+    "Cellsize": 13.2
+},{
+    "CellName": "DFFHQX1",
+    "Cellsize": 10.56
+},{
+    "CellName": "DFFXL",
+    "Cellsize": 11.22
+},{
+    "CellName": "DFFX4",
+    "Cellsize": 16.5
+},{
+    "CellName": "DFFX2",
+    "Cellsize": 13.86
+},{
+    "CellName": "DFFX1",
+    "Cellsize": 11.22
+},{
+    "CellName": "CLKINVXL",
+    "Cellsize": 1.98
+},{
+    "CellName": "CLKINVX8",
+    "Cellsize": 3.96
+},{
+    "CellName": "CLKINVX4",
+    "Cellsize": 2.64
+},{
+    "CellName": "CLKINVX3",
+    "Cellsize": 1.98
+},{
+    "CellName": "CLKINVX2",
+    "Cellsize": 1.98
+},{
+    "CellName": "CLKINVX20",
+    "Cellsize": 19.14
+},{
+    "CellName": "CLKINVX1",
+    "Cellsize": 1.98
+},{
+    "CellName": "CLKINVX16",
+    "Cellsize": 16.5
+},{
+    "CellName": "CLKINVX12",
+    "Cellsize": 12.54
+},{
+    "CellName": "CLKBUFXL",
+    "Cellsize": 2.64
+},{
+    "CellName": "CLKBUFX8",
+    "Cellsize": 4.62
+},{
+    "CellName": "CLKBUFX4",
+    "Cellsize": 3.3
+},{
+    "CellName": "CLKBUFX3",
+    "Cellsize": 2.64
+},{
+    "CellName": "CLKBUFX2",
+    "Cellsize": 2.64
+},{
+    "CellName": "CLKBUFX20",
+    "Cellsize": 15.84
+},{
+    "CellName": "CLKBUFX1",
+    "Cellsize": 2.64
+},{
+    "CellName": "CLKBUFX16",
+    "Cellsize": 12.54
+},{
+    "CellName": "CLKBUFX12",
+    "Cellsize": 10.56
+},{
+    "CellName": "BUFXL",
+    "Cellsize": 2.64
+},{
+    "CellName": "BUFX8",
+    "Cellsize": 5.94
+},{
+    "CellName": "BUFX4",
+    "Cellsize": 3.3
+},{
+    "CellName": "BUFX3",
+    "Cellsize": 2.64
+},{
+    "CellName": "BUFX2",
+    "Cellsize": 2.64
+},{
+    "CellName": "BUFX20",
+    "Cellsize": 10.56
+},{
+    "CellName": "BUFX1",
+    "Cellsize": 2.64
+},{
+    "CellName": "BUFX16",
+    "Cellsize": 8.58
+},{
+    "CellName": "BUFX12",
+    "Cellsize": 6.6
+},{
+    "CellName": "AOI33XL",
+    "Cellsize": 5.28
+},{
+    "CellName": "AOI33X4",
+    "Cellsize": 7.26
+},{
+    "CellName": "AOI33X2",
+    "Cellsize": 8.58
+},{
+    "CellName": "AOI33X1",
+    "Cellsize": 5.28
+},{
+    "CellName": "AOI32XL",
+    "Cellsize": 4.62
+},{
+    "CellName": "AOI32X4",
+    "Cellsize": 6.6
+},{
+    "CellName": "AOI32X2",
+    "Cellsize": 7.26
+},{
+    "CellName": "AOI32X1",
+    "Cellsize": 4.62
+},{
+    "CellName": "AOI31XL",
+    "Cellsize": 3.3
+},{
+    "CellName": "AOI31X4",
+    "Cellsize": 5.94
+},{
+    "CellName": "AOI31X2",
+    "Cellsize": 5.94
+},{
+    "CellName": "AOI31X1",
+    "Cellsize": 3.3
+},{
+    "CellName": "AOI2BB2XL",
+    "Cellsize": 4.62
+},{
+    "CellName": "AOI2BB2X4",
+    "Cellsize": 9.9
+},{
+    "CellName": "AOI2BB2X2",
+    "Cellsize": 5.94
+},{
+    "CellName": "AOI2BB2X1",
+    "Cellsize": 4.62
+},{
+    "CellName": "AOI2BB1XL",
+    "Cellsize": 3.3
+},{
+    "CellName": "AOI2BB1X4",
+    "Cellsize": 7.26
+},{
+    "CellName": "AOI2BB1X2",
+    "Cellsize": 4.62
+},{
+    "CellName": "AOI2BB1X1",
+    "Cellsize": 3.3
+},{
+    "CellName": "AOI22XL",
+    "Cellsize": 3.3
+},{
+    "CellName": "AOI22X4",
+    "Cellsize": 9.24
+},{
+    "CellName": "AOI22X2",
+    "Cellsize": 5.94
+},{
+    "CellName": "AOI22X1",
+    "Cellsize": 3.3
+},{
+    "CellName": "AOI222XL",
+    "Cellsize": 5.28
+},{
+    "CellName": "AOI222X4",
+    "Cellsize": 7.92
+},{
+    "CellName": "AOI222X2",
+    "Cellsize": 9.24
+},{
+    "CellName": "AOI222X1",
+    "Cellsize": 5.28
+},{
+    "CellName": "AOI221XL",
+    "Cellsize": 4.62
+},{
+    "CellName": "AOI221X4",
+    "Cellsize": 7.26
+},{
+    "CellName": "AOI221X2",
+    "Cellsize": 7.92
+},{
+    "CellName": "AOI221X1",
+    "Cellsize": 4.62
+},{
+    "CellName": "AOI21XL",
+    "Cellsize": 2.64
+},{
+    "CellName": "AOI21X4",
+    "Cellsize": 6.6
+},{
+    "CellName": "AOI21X2",
+    "Cellsize": 4.62
+},{
+    "CellName": "AOI21X1",
+    "Cellsize": 2.64
+},{
+    "CellName": "AND4XL",
+    "Cellsize": 3.96
+},{
+    "CellName": "AND4X4",
+    "Cellsize": 7.26
+},{
+    "CellName": "AND4X2",
+    "Cellsize": 3.96
+},{
+    "CellName": "AND4X1",
+    "Cellsize": 3.96
+},{
+    "CellName": "AOI211XL",
+    "Cellsize": 3.3
+},{
+    "CellName": "AOI211X4",
+    "Cellsize": 6.6
+},{
+    "CellName": "AOI211X2",
+    "Cellsize": 5.94
+},{
+    "CellName": "AOI211X1",
+    "Cellsize": 3.3
+},{
+    "CellName": "AND3XL",
+    "Cellsize": 3.3
+},{
+    "CellName": "AND3X4",
+    "Cellsize": 3.96
+},{
+    "CellName": "AND3X2",
+    "Cellsize": 3.3
+},{
+    "CellName": "AND3X1",
+    "Cellsize": 3.3
+},{
+    "CellName": "AND2XL",
+    "Cellsize": 2.64
+},{
+    "CellName": "AND2X4",
+    "Cellsize": 3.3
+},{
+    "CellName": "AND2X2",
+    "Cellsize": 2.64
+},{
+    "CellName": "AND2X1",
+    "Cellsize": 2.64
+},{
+    "CellName": "ADDHXL",
+    "Cellsize": 7.26
+},{
+    "CellName": "ADDHX4",
+    "Cellsize": 18.48
+},{
+    "CellName": "ADDHX2",
+    "Cellsize": 11.88
+},{
+    "CellName": "ADDHX1",
+    "Cellsize": 7.92
+},{
+    "CellName": "ADDFXL",
+    "Cellsize": 13.86
+},{
+    "CellName": "ADDFX4",
+    "Cellsize": 15.18
+},{
+    "CellName": "ADDFX2",
+    "Cellsize": 13.86
+},{
+    "CellName": "ADDFX1",
+    "Cellsize": 13.86
+},{
+    "CellName": "ADDFHXL",
+    "Cellsize": 14.52
+},{
+    "CellName": "ADDFHX4",
+    "Cellsize": 23.1
+},{
+    "CellName": "ADDFHX2",
+    "Cellsize": 22.44
+},{
+    "CellName": "ADDFHX1",
+    "Cellsize": 15.18
+},{
+    "CellName": "RFRDX4",
+    "Cellsize": 3.96
+},{
+    "CellName": "RFRDX2",
+    "Cellsize": 3.3
+},{
+    "CellName": "RFRDX1",
+    "Cellsize": 3.3
+},{
+    "CellName": "XOR3X4",
+    "Cellsize": 19.8
+},{
+    "CellName": "XOR3X2",
+    "Cellsize": 11.88
+},{
+    "CellName": "XNOR3X4",
+    "Cellsize": 19.8
+},{
+    "CellName": "XNOR3X2",
+    "Cellsize": 11.88
+},{
+    "CellName": "AFCSHCONX4",
+    "Cellsize": 31.02
+},{
+    "CellName": "AFCSHCONX2",
+    "Cellsize": 28.38
+},{
+    "CellName": "AFCSHCINX4",
+    "Cellsize": 32.34
+},{
+    "CellName": "AFCSHCINX2",
+    "Cellsize": 29.7
+},{
+    "CellName": "AHHCONX4",
+    "Cellsize": 8.58
+},{
+    "CellName": "AHHCONX2",
+    "Cellsize": 7.26
+},{
+    "CellName": "AHHCINX4",
+    "Cellsize": 7.92
+},{
+    "CellName": "AHHCINX2",
+    "Cellsize": 6.6
+},{
+    "CellName": "AFHCONX4",
+    "Cellsize": 15.84
+},{
+    "CellName": "AFHCONX2",
+    "Cellsize": 14.52
+},{
+    "CellName": "AFHCINX4",
+    "Cellsize": 17.16
+},{
+    "CellName": "AFHCINX2",
+    "Cellsize": 15.84
+},{
+    "CellName": "CMPR42X2",
+    "Cellsize": 26.4
+},{
+    "CellName": "CMPR42X1",
+    "Cellsize": 22.44
+},{
+    "CellName": "CMPR32X1",
+    "Cellsize": 13.86
+},{
+    "CellName": "CMPR22X1",
+    "Cellsize": 7.92
+},{
+    "CellName": "BMXX1",
+    "Cellsize": 12.54
+},{
+    "CellName": "BENCX4",
+    "Cellsize": 40.26
+},{
+    "CellName": "BENCX2",
+    "Cellsize": 27.06
+},{
+    "CellName": "BENCX1",
+    "Cellsize": 20.46
+},{
+    "CellName": "PCORNERDG",
+    "Cellsize": 235.0
+},{
+    "CellName": "PDIDGZ",
+    "Cellsize": 40.0
+},{
+    "CellName": "PDO04CDG",
+    "Cellsize": 40.0
+},{
+    "CellName": "PFEED01",
+    "Cellsize": 0.1
+},{
+    "CellName": "PFEED1",
+    "Cellsize": 1.0
+},{
+    "CellName": "PFEED10",
+    "Cellsize": 10.0
+},{
+    "CellName": "PFEED2",
+    "Cellsize": 2.0
+},{
+    "CellName": "PFEED20",
+    "Cellsize": 20.0
+},{
+    "CellName": "PFEED35",
+    "Cellsize": 35.0
+},{
+    "CellName": "PFEED5",
+    "Cellsize": 5.0
+},{
+    "CellName": "PFEED50",
+    "Cellsize": 50.0
+},{
+    "CellName": "PVDD1DGZ",
+    "Cellsize": 40.0
+},{
+    "CellName": "PVSS1DGZ",
+    "Cellsize": 40.0
+},{
+    "CellName": "PDB04DGZ",
+    "Cellsize": 40.0
+},{
+    "CellName": "ram_128x16A",
+    "Cellsize": 593.82
+},{
+    "CellName": "ram_256x16A",
+    "Cellsize": 598.22
+},{
+    "CellName": "rom_512x16A",
+    "Cellsize": 368.165
+},{
+    "CellName": "pllclk",
+    "Cellsize": 300.0
+},{
+    "CellName": "ANTENNA",
+    "Cellsize": 1.32
+}]
