@@ -1,0 +1,51 @@
+[
+    {
+        "ref_name": "BUFFSGD3BWP30P140HVT",
+        "cellsize": {
+            "width": 1400.0,
+            "height": 1800.0
+        }
+    },
+    {
+        "ref_name": "SDFQOPPSBSGD1BWP30P140HVT",
+        "cellsize": {
+            "width": 6440.0,
+            "height": 1800.0
+        }
+    },
+    {
+        "ref_name": "XOR2SGD0BWP30P140",
+        "cellsize": {
+            "width": 2240.0,
+            "height": 1800.0
+        }
+    },
+    {
+        "ref_name": "BUFFSGD3BWP30P140HVT",
+        "cellsize": {
+            "width": 1400.0,
+            "height": 1800.0
+        }
+    },
+    {
+        "ref_name": "AN2SGD0BWP30P140",
+        "cellsize": {
+            "width": 1120.0,
+            "height": 1800.0
+        }
+    },
+    {
+        "ref_name": "OR2SGD1BWP30P140",
+        "cellsize": {
+            "width": 1120.0,
+            "height": 1800.0
+        }
+    },
+    {
+        "ref_name": "CKMUX2SGD1BWP30P140",
+        "cellsize": {
+            "width": 2800.0,
+            "height": 1800.0
+        }
+    }
+]

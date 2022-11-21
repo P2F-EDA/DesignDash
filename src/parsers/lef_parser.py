@@ -1,8 +1,8 @@
 import json
 import sys
 import numpy as np
-def lef_parser():
-    input_file=open(sys.argv[1],'r')
+def lef_parser(input, output):
+    input_file=open(input,'r')
     input_content=input_file.readlines()
     cell_name=[]
     cell_size=[]
@@ -24,14 +24,15 @@ def lef_parser():
     def clean_cell_size(input_data2,index_value):
         return list(np.float_(' '.join(input_data2).strip(';').split('BY')))[index_value]*unit
 
-    with open(sys.argv[2], 'w') as outfile:
+    with open(output, 'w') as outfile:
     
         data= [
-            {'cellName' : cell_name[i][0], 
+            {'ref_name' : cell_name[i][0], 
                 'cellsize' :
                     {'width':clean_cell_size(cell_size[i],0),
                         'height':clean_cell_size(cell_size[i],1)}} 
                         for i in range(len(cell_name))]
     
         return json.dump(data, outfile,indent=4)
-lef_parser()
+
+lef_parser('fulladder_V0.1.lef.txt', 'lef_out.json')
